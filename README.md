@@ -1,4 +1,4 @@
-# taginput
+# taginput - VUE component
 Componente en vue, campo de texto en el que crear etiquetas que no se puedan repetir. Se pueden eliminar mediante botón en cada una de ellas o con backspace.
 Hay un console.log para comprobar como pasa la lista del componente a app cada vez que se actualiza.
 ## Project setup
